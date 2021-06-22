@@ -43,10 +43,10 @@
         "color": "#767676",
         "backgroundColor": "#FCFCFD",
         "selection": {
-            "color": "#000",
-            "backgroundColor": "#DEE4EA",
-            "unfocusedColor": "#000",
-            "unfocusedBackgroundColor": "#ECF0F3"
+            "color": "#fff",
+            "backgroundColor": "#182371",
+            "unfocusedColor": "#fff",
+            "unfocusedBackgroundColor": "#444970"
         },
         "border": "#d4d4d4"
     },
